@@ -1,0 +1,14 @@
+{
+  "name": "pojs-experiments",
+  "version": "1.0.0",
+  "description": "These are some experiments with \"just JS\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
