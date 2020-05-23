@@ -1,4 +1,4 @@
-export function Arithmetic() {
+function Arithmetic() {
 	let nextVal;
 
 	return {
